@@ -1,0 +1,8 @@
+package com.ict;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class SellerRestCtr {
+
+}

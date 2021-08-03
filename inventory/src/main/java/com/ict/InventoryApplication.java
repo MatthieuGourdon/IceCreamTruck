@@ -1,13 +1,13 @@
-package com.ict.seller;
+package com.ict;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SellerApplication {
+public class InventoryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SellerApplication.class, args);
+		SpringApplication.run(InventoryApplication.class, args);
 	}
 
 }
